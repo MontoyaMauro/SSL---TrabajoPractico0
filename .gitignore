@@ -8,3 +8,6 @@ output/
 
 # Archivos de objeto
 *.o
+
+.vscode/
+programa.c
