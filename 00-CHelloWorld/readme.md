@@ -10,3 +10,7 @@
 ## Ejecución
 * El programa se compiló y ejecutó correctamente mostrando la versión del estándar.
 * Se generó el archivo `output.txt` con la salida del programa mediante redirección.
+
+## Créditos Extra
+* Se utilizó **mingw32-make** para automatizar la compilación y ejecución.
+* Comandos implementados: `mingw32-make` (compilar) y `mingw32-make run` (ejecutar).
